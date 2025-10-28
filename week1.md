@@ -1,4 +1,4 @@
 # week 1 review of biochar
 
-### Content
-- [biochar](./biochar.md)
+three main direction to dive in
+|real-world application (with market) | types & functionality of pyrolysis plants | carbon credit in the UK Emission Trading Scheme (ETS) |
