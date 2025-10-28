@@ -16,8 +16,8 @@ what are the types of pyrolysis and what functionality does each reactor design 
 
 types & functionality of pyrolysis plants
 
-|slow pyrolysis (fixed rotary kil)n||fast pyrolysis (fluidised bed)|intermediate pyrolysis|gasification (partial oxidation)|hydrothermal carbonisation(HTC)|
-|---|---|---|---|---|---|
+|slow pyrolysis (fixed rotary kil)n|fast pyrolysis (fluidised bed)|intermediate pyrolysis|gasification (partial oxidation)|hydrothermal carbonisation(HTC)|
+|---|---|---|---|---|
 |produces biochar for soil amendment & landscape use|n/a|demonstrations of bio-oil + biochar co-use|energy generation|n/a|
 |used by Woodtek Engineering / Shropshire Council (Welshpool)|not park sector related, for industrial bio-oil plants|used by EBRI Pyrotest unit for research|power plants and Energy for Waste|water utilities|not park sector related|
 
